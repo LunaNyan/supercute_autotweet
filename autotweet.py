@@ -1,4 +1,4 @@
-#!/usr/bin/python3.7
+#!/usr/bin/python3
 
 import tweepy, m_config
 from random import randint
